@@ -1,0 +1,24 @@
+[submodule "UTKFace-Classification"]
+	path = UTKFace-Classification
+	url = https://github.com/daneshvar-amrollahi/UTKFace-Classification
+[submodule "Minimax-Game"]
+	path = Minimax-Game
+	url = https://github.com/daneshvar-amrollahi/Minimax-Game
+[submodule "Kuzushiji-Classification-NN"]
+	path = Kuzushiji-Classification-NN
+	url = https://github.com/daneshvar-amrollahi/Kuzushiji-Classification-NN
+[submodule "Naive-Bayes-Classifier"]
+	path = Naive-Bayes-Classifier
+	url = https://github.com/daneshvar-amrollahi/Naive-Bayes-Classifier
+[submodule "Car-Price-Prediction"]
+	path = Car-Price-Prediction
+	url = https://github.com/daneshvar-amrollahi/Car-Price-Prediction
+[submodule "Genetic-Algorithm-Scheduling"]
+	path = Genetic-Algorithm-Scheduling
+	url = https://github.com/daneshvar-amrollahi/Genetic-Algorithm-Scheduling
+[submodule "AI-Search-Algorithms"]
+	path = AI-Search-Algorithms
+	url = https://github.com/daneshvar-amrollahi/AI-Search-Algorithms
+[submodule "Intro-ML-Libs"]
+	path = Intro-ML-Libs
+	url = https://github.com/daneshvar-amrollahi/Intro-ML-Libs
